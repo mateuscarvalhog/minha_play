@@ -6,7 +6,7 @@ $('#id_artista').change(function() {
         url: "https://api.vagalume.com.br/search.php"
             + "?art=" + artista
             + "&mus=" + faixa
-            + "&apikey=2e01f1a9bffda27246f0e42842b57054",
+            + process.env.VAGALUME_KEY,
         dataType: 'jsonp',
         crossDomain: true,
         contentType: "application/json",
