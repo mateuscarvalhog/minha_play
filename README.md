@@ -7,4 +7,4 @@ Atualmente, é uma playlist pessoal que possibilita salvar várias faixas com re
 Para mais informações, consultar a [documentação em PDF](https://github.com/mateuscarvalhog/minha_play/blob/main/documentacao.pdf) desenvolvida para o trabalho final.
 
 
-* *Necessário criação de arquivos .env e process.env para adicionar informações do projeto e chaves necessárias*
+\* *Necessário criação de arquivos .env e process.env para adicionar informações do projeto e chaves necessárias*
